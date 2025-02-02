@@ -20,9 +20,7 @@ This is a pre-configured EFI folder for OpenCore 1.0.3, designed to work with ma
 | **Bluetooth**  | CSR 8510 A10                             |
 | **Case**       | Gamdias Aura GC6 ARGB                    |
 
-<p align="center">
 <img src="https://github.com/user-attachments/assets/20789c98-faa2-4f82-8299-7d2ee771288a" width="55%">
-</p>
 
 ## What Works
 
@@ -35,9 +33,7 @@ This is a pre-configured EFI folder for OpenCore 1.0.3, designed to work with ma
 ✅ iPhone Sync (Not to be confused with Screen Mirroring)  
 ✅ FileVault  
 
-<p align="center">
 <img src="https://github.com/user-attachments/assets/e53eed06-504a-4aef-995e-c06d3ee4800c" width="55%">
-</p>
 
 ## What Doesn't Work
 
