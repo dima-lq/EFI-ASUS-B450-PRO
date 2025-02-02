@@ -5,7 +5,7 @@
 This is a pre-configured EFI folder for OpenCore 1.0.3, designed to work with macOS Sonoma and potentially all macOS versions down to Mojave.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/998b40d2-2253-46c2-bbb9-7c3edf280602" width="35%">
+  <img src="https://github.com/user-attachments/assets/5ad9b84d-ef5b-4744-8083-d9b3ce73cea6" width="35%">
 </p>
 
 ## Hardware Compatibility
@@ -21,7 +21,7 @@ This is a pre-configured EFI folder for OpenCore 1.0.3, designed to work with ma
 | **Case**       | Gamdias Aura GC6 ARGB                    |
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bde01d8c-e150-4f42-8388-f8a4c83c5e2b" width="55%">
+<img src="https://github.com/user-attachments/assets/20789c98-faa2-4f82-8299-7d2ee771288a" width="55%">
 </p>
 
 ## What Works
@@ -36,7 +36,7 @@ This is a pre-configured EFI folder for OpenCore 1.0.3, designed to work with ma
 ✅ FileVault  
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d1df140d-9036-4547-b3b3-f624acebed67" width="55%">
+<img src="https://github.com/user-attachments/assets/e53eed06-504a-4aef-995e-c06d3ee4800c" width="55%">
 </p>
 
 ## What Doesn't Work
@@ -115,8 +115,8 @@ This is a pre-configured EFI folder for OpenCore 1.0.3, designed to work with ma
 2. Copy the EFI folder from the USB drive to the internal EFI partition.
 3. Reboot and verify that OpenCore boots macOS properly.
 
-![Screenshot 2025-02-02 at 23 14 38](https://github.com/user-attachments/assets/8526b3d6-855f-461e-8461-ff194eb7dcb0)
-![Screenshot 2025-02-02 at 23 40 34](https://github.com/user-attachments/assets/bc7cc33d-bdd8-4a0a-959e-2ad423862702)
+![Screenshot 2025-02-02 at 23 14 38](https://github.com/user-attachments/assets/59d842f9-5224-4f39-b600-6a2bcd6679d4)
+![Screenshot 2025-02-02 at 23 40 34](https://github.com/user-attachments/assets/0be560b2-b434-49bd-8849-09b614f63e08)
 *Screenshot of working DRM content*
 
 ## Notes
